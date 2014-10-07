@@ -15,19 +15,12 @@
         <github>jkanclerz</github>
         <group>jkanclerz</group>
     </student>
-   <student>
-        <firstname>Jakub</firstname>
-        <lastname>Kanclerz</lastname>
-        <email>jakub.kanclerz@gmail.com</email>
-        <github>jkanclerz</github>
-        <group>jkanclerz</group>
-    </student>
    
 <student>
         <firstname>Krzysztof</firstname>
         <lastname>Sarota</lastname>
         <email>krzysztof.sarota@gmail.com</email>
         <github>BilboBagosz</github>
-        <group>jkanclerz</group>
+        <group>KrDZIs3011Io</group>
     </student>
 </students>
